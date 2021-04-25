@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'itahirovaadbackend'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_320b0a317f84458a8562f713d373b535 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_cf46df763e2f45f5a1229f97e5ab1be7 }}
         package: .
